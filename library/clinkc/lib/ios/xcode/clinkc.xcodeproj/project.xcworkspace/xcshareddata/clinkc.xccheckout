@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40CE2DA3-E956-488D-9D69-615B44892EC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>clinkc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EF02BED-59D8-4324-B1E1-2A4B6B22CFC7</key>
+		<string>http://svn.code.sf.net/p/clinkc/code/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lib/ios/xcode/clinkc.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EF02BED-59D8-4324-B1E1-2A4B6B22CFC7</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9EF02BED-59D8-4324-B1E1-2A4B6B22CFC7</key>
+		<string>http://svn.code.sf.net/p/clinkc/code</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.code.sf.net/p/clinkc/code/trunk/lib/ios/xcode/clinkc.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EF02BED-59D8-4324-B1E1-2A4B6B22CFC7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EF02BED-59D8-4324-B1E1-2A4B6B22CFC7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>clinkc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

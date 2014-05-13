@@ -1,0 +1,22 @@
+Contents of /Users/pd/Documents/clinkc/lib/ios/xcode/clinkc_Prefix.pch
+-x
+c
+-arch
+armv7
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+-g
+-miphoneos-version-min=7.1
+-iquote
+-iquote
+-I/Users/pd/Documents/clinkc/lib/ios/xcode/DerivedData/clinkc/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/include/libxml2
+-I../../../include
+-F/Users/pd/Documents/clinkc/lib/ios/xcode/DerivedData/clinkc/Build/Products/Debug-iphoneos
+arm-apple-darwin13.1.0
+"4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)"
+SDK_PRODUCT_BUILD_VERSION=11D167
+11D167

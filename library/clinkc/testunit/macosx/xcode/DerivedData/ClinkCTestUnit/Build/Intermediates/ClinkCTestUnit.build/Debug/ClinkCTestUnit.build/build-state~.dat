@@ -1,0 +1,207 @@
+TClinkCTestUnit
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052C4D338000000000000044C
+t1388630840
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB83700000000000001DE
+t1394522167
+s478
+
+N/Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp
+c00000000536760D9000000000000014C
+t1399283929
+s332
+
+N/Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp
+c00000000536760D8000000000000048B
+t1399283928
+s1163
+
+N/Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp
+c00000000536760D80000000000000440
+t1399283928
+s1088
+
+N/Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp
+c00000000536760D90000000000000448
+t1399283929
+s1096
+
+N/Users/pd/Documents/clinkc/testunit/ClinkTestCaseHttp.cpp
+c00000000536760D900000000000007BC
+t1399283929
+s1980
+
+N/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o
+t2
+s0
+
+N/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o
+t2
+s0
+
+N/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o
+t2
+s0
+
+N/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o
+t2
+s0
+
+N/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseHttp.o
+t2
+s0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseHttp.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseNetwork.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseService.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseStateVariable.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseSubscription.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseURI.cpp
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/TestDevice.c
+r0
+
+CBuild AST from /Users/pd/Documents/clinkc/testunit/cppunitmain.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2f52bc6ba517b941^c87dbf6ba517b941^---0#1#1#--18"Check dependencies36"0C741B39-3832-4252-AAEC-297CF2B27F07-
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420980075.748415
+e420980075.774425
+r0
+xCompileC
+xDerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o
+x/Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp:1:
+o/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found
+o#include <cppunit/extensions/HelperMacros.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp257"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb9a7bf6ba517b941^22fac56ba517b941^-276"In file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp:1:/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found#include <cppunit/extensions/HelperMacros.h>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@50"'cppunit/extensions/HelperMacros.h' file not found-420980075#18446744073709551615#0#1(2@78"In file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp:1:-420980075#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@60"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCase.h0000000000000000^3#9#3#9#76#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@60"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp0000000000000000^3351"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pd/Documents/clinkc/testunit/macosx/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-generated-files.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-own-target-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-all-target-headers.hmap -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-project-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug/include -I/opt/local/include -I../../../include -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources/x86_64 -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources -F/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug -MMD -MT dependencies -MF /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.d --serialize-diagnostics /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.dia -c /Users/pd/Documents/clinkc/testunit/ClinkTestCase.cpp -o /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCase.o36"C8B27855-4383-4472-870C-A9A84EE803D6-
+bED6F05D9-43E1-49A9-8296-B3F875EB5BA0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420980075.748550
+e420980075.874958
+r0
+xCompileC
+xDerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o
+x/Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp:3:
+o/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found
+o#include <cppunit/extensions/HelperMacros.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp281"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf2b5bf6ba517b941^b119e06ba517b941^-288"In file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp:3:/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found#include <cppunit/extensions/HelperMacros.h>         ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@72"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp0000000000000000^3423"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pd/Documents/clinkc/testunit/macosx/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-generated-files.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-own-target-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-all-target-headers.hmap -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-project-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug/include -I/opt/local/include -I../../../include -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources/x86_64 -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources -F/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug -MMD -MT dependencies -MF /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.d --serialize-diagnostics /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.dia -c /Users/pd/Documents/clinkc/testunit/ClinkTestCaseControlPoint.cpp -o /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseControlPoint.o36"4FE0DF4B-30B3-40A7-A3C5-E50A9EF6A0C8-
+bED6F05D9-43E1-49A9-8296-B3F875EB5BA0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420980075.749046
+e420980075.874916
+r0
+xCompileC
+xDerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o
+x/Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp:3:
+o/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found
+o#include <cppunit/extensions/HelperMacros.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp269"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb917c06ba517b941^bf0ee06ba517b941^-282"In file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp:3:/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found#include <cppunit/extensions/HelperMacros.h>         ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp0000000000000000^3387"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pd/Documents/clinkc/testunit/macosx/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-generated-files.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-own-target-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-all-target-headers.hmap -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-project-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug/include -I/opt/local/include -I../../../include -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources/x86_64 -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources -F/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug -MMD -MT dependencies -MF /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.d --serialize-diagnostics /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.dia -c /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDevice.cpp -o /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDevice.o36"20095CCF-DF0A-4450-966A-208E98BBCC4B-
+bED6F05D9-43E1-49A9-8296-B3F875EB5BA0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420980075.749795
+e420980075.874882
+r0
+xCompileC
+xDerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o
+x/Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp:1:
+o/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found
+o#include <cppunit/extensions/HelperMacros.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp277"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4607c06ba517b941^f415e06ba517b941^-286"In file included from /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp:1:/Users/pd/Documents/clinkc/testunit/ClinkTestCase.h:4:10: fatal error: 'cppunit/extensions/HelperMacros.h' file not found#include <cppunit/extensions/HelperMacros.h>         ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp0000000000000000^3411"CompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pd/Documents/clinkc/testunit/macosx/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-generated-files.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-own-target-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-all-target-headers.hmap -iquote /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/ClinkCTestUnit-project-headers.hmap -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug/include -I/opt/local/include -I../../../include -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources/x86_64 -I/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/DerivedSources -F/Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug -MMD -MT dependencies -MF /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.d --serialize-diagnostics /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.dia -c /Users/pd/Documents/clinkc/testunit/ClinkTestCaseDictionary.cpp -o /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseDictionary.o36"C8375FF9-A07E-43A0-ABF0-8F7D092C54E2-
+bED6F05D9-43E1-49A9-8296-B3F875EB5BA0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseHttp.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseHttp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseNetwork.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseService.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseService.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseStateVariable.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseStateVariable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseSubscription.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseSubscription.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/ClinkTestCaseURI.o /Users/pd/Documents/clinkc/testunit/ClinkTestCaseURI.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/TestDevice.o /Users/pd/Documents/clinkc/testunit/TestDevice.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/ClinkCTestUnit/Build/Intermediates/ClinkCTestUnit.build/Debug/ClinkCTestUnit.build/Objects-normal/x86_64/cppunitmain.o /Users/pd/Documents/clinkc/testunit/cppunitmain.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/pd/Documents/clinkc/testunit/macosx/xcode/DerivedData/ClinkCTestUnit/Build/Products/Debug/ClinkCTestUnit normal x86_64
+r0
+
